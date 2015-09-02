@@ -1,4 +1,11 @@
-#include <iostream>
+/*
+SBITC 2015 Regional Question Reverse Fibonacci
+=============================================================================
+Authors: A. Peters
+=============================================================================
+Given a number the program will find the longest fibonacci sequence of which the number is an element.
+This code is a rewrite of the java code.
+*/#include <iostream>
 
 using namespace std;
 
