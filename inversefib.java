@@ -1,3 +1,10 @@
+/*
+SBITC 2015 Regional Question Reverse Fibonacci
+=============================================================================
+Authors: T. Chindeka, K. James, A. Peters, A. Schulze
+=============================================================================
+Given a number the program will find the longest fibonacci sequence of which the number is an element.
+*/
 import java.io.*;
 class inversefib{
 
